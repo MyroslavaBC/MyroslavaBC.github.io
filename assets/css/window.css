@@ -78,7 +78,7 @@
     max-width: 80%;
     position: fixed;
     left: 50%;
-    top: 30%;
+    top: 25%;
     transform: translateX(-50%) translateY(-30%);
   }
   .modal-img {
